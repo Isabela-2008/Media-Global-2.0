@@ -1,0 +1,39 @@
+Enunciado
+Este projeto é uma calculadora de médias escolares em Python utilizando a biblioteca Tkinter para a interface gráfica. A aplicação permite a inserção de notas de diversas disciplinas e calcula a média, exibindo se o aluno está aprovado ou quantos pontos ainda são necessários para alcançar a média desejada.
+
+README.md
+markdown
+# Calculadora de Média Escolar
+
+Este projeto é uma calculadora de médias escolares desenvolvida em Python utilizando a biblioteca Tkinter para a interface gráfica. A aplicação permite que os usuários insiram notas de diferentes disciplinas e calculem a média para verificar se estão aprovados ou quantos pontos ainda são necessários para alcançar a média mínima.
+
+## Funcionalidades
+
+- Inserção de notas de diferentes disciplinas
+- Cálculo da média para cada disciplina
+- Indicação de aprovação ou quantos pontos são necessários para atingir a média mínima
+- Interface gráfica intuitiva com entradas de texto e botões de ação
+
+## Como Usar
+
+1. **Clone o repositório**:
+   ```bash
+   git clone https://github.com/seu-usuario/calculadora-media-escolar.git
+   cd calculadora-media-escolar
+Instale as dependências necessárias:
+
+bash
+pip install tk
+Execute a aplicação:
+
+bash
+python main.py
+Estrutura do Projeto
+main.py: Arquivo principal que contém a lógica da aplicação e a interface gráfica.
+
+README.md: Este arquivo, contendo informações sobre o projeto.
+
+.gitignore: Arquivo para ignorar arquivos desnecessários no repositório.
+
+Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias e correções.
